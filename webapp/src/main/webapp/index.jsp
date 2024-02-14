@@ -33,7 +33,7 @@
 
    <h1> Thank You for the Registration </h1>
    <br>
-   <h1> Happy Learning.See you again</h1>
+   <h1> Happy Learning.</h1>
 
    
 </form>
